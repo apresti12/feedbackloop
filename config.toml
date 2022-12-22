@@ -1,0 +1,4 @@
+baseURL = 'http://feedbackloop.io/'
+languageCode = 'en-us'
+title = 'A feedback loop app'
+theme = 'ananke'
